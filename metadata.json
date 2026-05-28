@@ -1,0 +1,6 @@
+{
+  "name": "Nova App Landing Page",
+  "description": "Professional marketing website for a new application launch.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
